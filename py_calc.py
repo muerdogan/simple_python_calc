@@ -37,4 +37,4 @@ else:
     elif transaction == '4':
         print(divide)
         
- ## for personal self study only.
+ ## personal self study.
